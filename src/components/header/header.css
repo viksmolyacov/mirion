@@ -1,0 +1,28 @@
+.header {
+  height: 100px;
+  background: #28323A;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar {
+  display: flex;
+  align-self: center;
+}
+
+ul li {
+  list-style: none;
+  float: left;
+  padding-left: 20px;
+
+}
+
+li a {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+}

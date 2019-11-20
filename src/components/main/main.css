@@ -1,0 +1,26 @@
+.main {
+
+}
+
+.shirts {
+  display: flex;
+  justify-content: center;
+
+}
+
+.shirt {
+  border-radius: 10px;
+}
+
+.shirtGreen {
+    background: #6FCF97;
+}
+
+.shirtBlue {
+  background: #2D9CDB;
+
+}
+
+.shirtViolet {
+  background: #BB6BD9;
+}
