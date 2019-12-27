@@ -11,13 +11,13 @@ function Main() {
     <div className="main">
     <div className="shirts">
     <div className="shirt shirtGreen">
-     <img src={Shirt1}></img>
+     <img src={Shirt1} alt="shirt"></img>
      </div>
        <div className="shirt shirtBlue">
-      <img src={Shirt2}></img>
+      <img src={Shirt2} alt="shirt"></img>
       </div>
         <div className="shirt shirtViolet">
-       <img src={Shirt3}></img>
+       <img src={Shirt3} alt="shirt"></img>
        </div>
      </div>
      </div>
