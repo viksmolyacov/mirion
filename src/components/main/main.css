@@ -1,15 +1,18 @@
 .main {
-
+  padding-top: 84px;
+  
 }
 
 .shirts {
   display: flex;
+
   justify-content: center;
 
 }
 
 .shirt {
   border-radius: 10px;
+  margin-left: 10px;
 }
 
 .shirtGreen {
