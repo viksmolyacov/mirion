@@ -25,22 +25,31 @@
 
 .shirts {
   display: flex;
-
   justify-content: center;
+ 
 
 }
 
 .shirt {
   border-radius: 10px;
-  margin-left: 10px;
+  height: 350px;
 }
+
+.shirts img {
+  padding-top: 34px;
+}
+
+
 
 .shirtGreen {
     background: #6FCF97;
+    
 }
 
 .shirtBlue {
   background: #2D9CDB;
+  margin-left: 32px;
+  margin-right: 32px;
 
 }
 
