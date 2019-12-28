@@ -1,9 +1,27 @@
 .main {
-  padding-top: 84px;
+  padding-top: 66px;
   padding-bottom: 120px;
   background: #eaf0f7;
+  text-align: center;
   
 }
+
+.main h1 {
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 80px;
+  color: #333;
+  padding-bottom: 40px;
+  }
+
+  .main h1 b {
+    color:  #5857B8;
+    font-weight: normal;
+  } 
+
+
 
 .shirts {
   display: flex;

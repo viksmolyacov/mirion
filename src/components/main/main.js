@@ -9,6 +9,7 @@ import Shirt3 from '../../images/shirt3.png';
 function Main() {
   return (
     <div className="main">
+      <h1><b>Л</b>учшее</h1>
     <div className="shirts">
     <div className="shirt shirtGreen">
      <img src={Shirt1} alt="shirt"></img>
