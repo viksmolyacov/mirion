@@ -1,2 +1,6 @@
 /* Font include (Scada) */
 @import url('https://fonts.googleapis.com/css?family=Scada:400,400i,700,700i&display=swap&subset=cyrillic,cyrillic-ext,latin-ext');
+
+body {
+    background: #eaf0f7;
+}

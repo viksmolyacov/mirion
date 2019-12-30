@@ -1,7 +1,6 @@
 .main {
-  padding-top: 66px;
-  padding-bottom: 120px;
-  background: #eaf0f7;
+  
+  
   text-align: center;
   
 }
@@ -56,3 +55,20 @@
 .shirtViolet {
   background: #BB6BD9;
 }
+
+.btn  button {
+  margin-top: 80px;
+  width: 266px;
+  height: 80px;
+  background: #5857B8;
+  border-radius: 10px;
+  font-size: 24px;
+  color: #FFFFFF
+}
+
+.btn  button:hover {
+  cursor: pointer;
+  background: #6a6ad1;
+  color: #eee;
+}
+

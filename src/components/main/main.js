@@ -21,6 +21,9 @@ function Main() {
        <img src={Shirt3} alt="shirt"></img>
        </div>
      </div>
+     <div className="btn">
+       <button>Каталог</button>
+     </div>
      </div>
 
   );
