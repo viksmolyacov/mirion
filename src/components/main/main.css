@@ -24,6 +24,7 @@
 
 .shirts {
   display: flex;
+  position: relativ;
   justify-content: center;
  
 
@@ -36,6 +37,13 @@
 
 .shirts img {
   padding-top: 34px;
+  transition: 5s ease-in-out;
+}
+
+.shirts img:hover {
+  height: 350px;
+  
+
 }
 
 
